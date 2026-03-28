@@ -29,6 +29,8 @@ A collection of coding assignments and small projects completed as part of my co
 ## Additional Projects 
 - [Frias Exercise 167](https://github.com/Fritra0165/Frias-exercise-167)  
   Java program that calculates discounts and prints purchase receipts.
+- [Blackjack Game](https://github.com/Fritra0165/CSCI230-GroupProject-BlackJack)
+  Java-based Blackjack simulation using OOP and stack data structures
 
 --
 ## Technologies used
