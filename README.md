@@ -15,9 +15,6 @@ A collection of coding assignments and small projects completed as part of my co
 
 ## Assignments
 
-### Assignment 3 – File System Simulation
-- Simulates folder/file structures
-
 ### Assignment 4 – Animal Shelter System
 - Manages animals using OOP principles
 
